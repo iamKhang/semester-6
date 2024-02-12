@@ -51,4 +51,7 @@
     <fullyQualifiedTypeName name="java.util.concurrent.ForkJoinPool"/>
     <fullyQualifiedTypeName name="java.util.concurrent.RecursiveTask"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.stream.Collector"/>
+    <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+    <fullyQualifiedTypeName name="bai03.Employee"/>
 </qualifiedTypeNameHistroy>

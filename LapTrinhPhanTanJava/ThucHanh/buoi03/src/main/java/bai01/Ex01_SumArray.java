@@ -4,13 +4,13 @@ import java.util.Iterator;
 import java.util.concurrent.ForkJoinPool;
 import java.util.concurrent.RecursiveTask;
 
-public class ForkJoinDemo extends RecursiveTask<Long> {
+public class Ex01_SumArray extends RecursiveTask<Long> {
 	private static final int THRESHOLD = 100_000;
 	private int[] array;
 	private int start;
 	private int end;
 
-	public ForkJoinDemo(int[] array, int start, int end) {
+	public Ex01_SumArray(int[] array, int start, int end) {
 		this.array = array;
 		this.start = start;
 		this.end = end;
@@ -22,8 +22,8 @@ public class ForkJoinDemo extends RecursiveTask<Long> {
 			return computeDirectly();
 		} else {
 			int mid = (start + end) / 2;
-			ForkJoinDemo leftTask = new ForkJoinDemo(array, start, mid);
-			ForkJoinDemo rightTask = new ForkJoinDemo(array, mid, end);
+			Ex01_SumArray leftTask = new Ex01_SumArray(array, start, mid);
+			Ex01_SumArray rightTask = new Ex01_SumArray(array, mid, end);
 
 			leftTask.fork();
 			long rightResult = rightTask.compute();
@@ -51,14 +51,14 @@ public class ForkJoinDemo extends RecursiveTask<Long> {
 		long timeRun;
 
 		start = System.currentTimeMillis();
-		ForkJoinDemo task = new ForkJoinDemo(array, 0, array.length);
+		Ex01_SumArray task = new Ex01_SumArray(array, 0, array.length);
 		ForkJoinPool pool = new ForkJoinPool();
 		long result = pool.invoke(task);
 		end = System.currentTimeMillis();
 		timeRun = end - start;
 
-		System.out.println("Tổng của mảng là: " + result);
-		System.out.println("Thời gian chạy khi sử dụng Fork/Join: " + timeRun);
+		System.out.println("Tong mang la�: " + result);
+		System.out.println("Thoi gian khi su dung Fork/Join: " + timeRun);
 
 		result = 0;
 		start = System.currentTimeMillis();
@@ -68,8 +68,8 @@ public class ForkJoinDemo extends RecursiveTask<Long> {
 		end = System.currentTimeMillis();
 		timeRun = end - start;
 
-		System.out.println("Tổng của mảng là: " + result);
-		System.out.println("Thời gian chạy khi không sử dụng Fork/Join: " + timeRun);
+		System.out.println("Tong mang la: " + result);
+		System.out.println("Thoi gian khi khong su dung Fork/Join: " + timeRun);
 		
 	}
 }
