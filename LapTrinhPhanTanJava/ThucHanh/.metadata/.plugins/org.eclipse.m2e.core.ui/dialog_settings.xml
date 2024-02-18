@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="E:\HocKi6\LapTrinhPhanTanJava\ThucHanh"/>
 			<item value="E:\HocKi6\LapTrinhPhanTanJava\Demo\json-demo"/>
 			<item value="E:\HocKi6\LapTrinhPhanTanJava\ThucHanh\ThucHanh"/>
 		</list>
@@ -15,6 +16,7 @@
 		</list>
 	</section>
 	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
 			<item value="[artifactId]-TRUNK"/>
@@ -51,6 +53,7 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="practiceTest1st"/>
 			<item value="buoi03"/>
 			<item value="Buoi01"/>
 			<item value="Buoi"/>

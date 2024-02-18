@@ -37,7 +37,7 @@ public class ConvertJsonWithStreamingAPI {
 						JsonArray jArray = parser.getArray();
 						for (JsonValue jValue : jArray) {
 							JsonObject jobObject = (JsonObject) jValue;
-							phoneNumbers
+							phoneNumber
 									.add(new PhoneNumber(jobObject.getString("type"), jobObject.getString("number")));
 
 						}

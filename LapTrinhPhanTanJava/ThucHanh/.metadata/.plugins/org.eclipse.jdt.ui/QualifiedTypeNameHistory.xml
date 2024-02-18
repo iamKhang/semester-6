@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="Buoi01.Example1.YourTask"/>
-    <fullyQualifiedTypeName name="javax.swing.JFrame"/>
-    <fullyQualifiedTypeName name="Buoi01.Example4.CopingFile"/>
-    <fullyQualifiedTypeName name="javax.swing.JPanel"/>
     <fullyQualifiedTypeName name="javax.swing.Box"/>
     <fullyQualifiedTypeName name="javax.swing.BoxLayout"/>
     <fullyQualifiedTypeName name="javax.swing.JLabel"/>
@@ -13,15 +9,11 @@
     <fullyQualifiedTypeName name="java.awt.Dimension"/>
     <fullyQualifiedTypeName name="java.io.File"/>
     <fullyQualifiedTypeName name="java.awt.event.ActionListener"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="Bai02.PhoneNumber"/>
-    <fullyQualifiedTypeName name="java.io.IOException"/>
     <fullyQualifiedTypeName name="Bai02.DecodeJson"/>
     <fullyQualifiedTypeName name="Bai02.Address"/>
     <fullyQualifiedTypeName name="Bai02.Person"/>
     <fullyQualifiedTypeName name="jakarta.json.JsonReader"/>
-    <fullyQualifiedTypeName name="jakarta.json.Json"/>
-    <fullyQualifiedTypeName name="java.io.FileReader"/>
     <fullyQualifiedTypeName name="Bai03.JsonHandler"/>
     <fullyQualifiedTypeName name="Bai03.State"/>
     <fullyQualifiedTypeName name="java.util.concurrent.locks.Lock"/>
@@ -34,19 +26,13 @@
     <fullyQualifiedTypeName name="java.util.concurrent.Executor"/>
     <fullyQualifiedTypeName name="java.util.concurrent.Executors"/>
     <fullyQualifiedTypeName name="java.util.concurrent.Future"/>
-    <fullyQualifiedTypeName name="java.lang.Double"/>
     <fullyQualifiedTypeName name="java.lang.StringIndexOutOfBoundsException"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="bai03.State"/>
     <fullyQualifiedTypeName name="bai03.ConvertJsonWithStreamingAPI"/>
-    <fullyQualifiedTypeName name="jakarta.json.stream.JsonParser.Event"/>
     <fullyQualifiedTypeName name="bai02.Address"/>
-    <fullyQualifiedTypeName name="jakarta.json.JsonArray"/>
-    <fullyQualifiedTypeName name="jakarta.json.JsonObject"/>
     <fullyQualifiedTypeName name="bai02.PhoneNumber"/>
-    <fullyQualifiedTypeName name="javax.sql.rowset.CachedRowSet"/>
     <fullyQualifiedTypeName name="bai02.Person"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="int"/>
     <fullyQualifiedTypeName name="java.util.concurrent.ForkJoinPool"/>
     <fullyQualifiedTypeName name="java.util.concurrent.RecursiveTask"/>
@@ -54,4 +40,24 @@
     <fullyQualifiedTypeName name="java.util.stream.Collector"/>
     <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
     <fullyQualifiedTypeName name="bai03.Employee"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.CopyOnWriteArraySet"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="jakarta.json.stream.JsonParser"/>
+    <fullyQualifiedTypeName name="jakarta.json.Json"/>
+    <fullyQualifiedTypeName name="java.io.FileReader"/>
+    <fullyQualifiedTypeName name="jakarta.json.stream.JsonParser.Event"/>
+    <fullyQualifiedTypeName name="javax.sql.rowset.CachedRowSet"/>
+    <fullyQualifiedTypeName name="practiceTest1st.Address"/>
+    <fullyQualifiedTypeName name="practiceTest1st.ConvertJson"/>
+    <fullyQualifiedTypeName name="double"/>
+    <fullyQualifiedTypeName name="practiceTest1st.Grade"/>
+    <fullyQualifiedTypeName name="jakarta.json.JsonObject"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="practiceTest1st.Restaurant"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="jakarta.json.JsonArray"/>
+    <fullyQualifiedTypeName name="jakarta.json.JsonValue"/>
+    <fullyQualifiedTypeName name="java.lang.Double"/>
+    <fullyQualifiedTypeName name="jakarta.json.JsonNumber"/>
 </qualifiedTypeNameHistroy>
