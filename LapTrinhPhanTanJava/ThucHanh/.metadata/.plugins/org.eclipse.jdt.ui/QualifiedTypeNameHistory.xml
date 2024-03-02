@@ -1,21 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.util.concurrent.locks.ReentrantLock"/>
-    <fullyQualifiedTypeName name="java.lang.Thread"/>
-    <fullyQualifiedTypeName name="java.lang.Runnable"/>
-    <fullyQualifiedTypeName name="Bai03.Account"/>
-    <fullyQualifiedTypeName name="java.util.concurrent.Callable"/>
-    <fullyQualifiedTypeName name="java.util.concurrent.ExecutorService"/>
-    <fullyQualifiedTypeName name="java.util.concurrent.Executor"/>
-    <fullyQualifiedTypeName name="java.util.concurrent.Executors"/>
-    <fullyQualifiedTypeName name="java.util.concurrent.Future"/>
-    <fullyQualifiedTypeName name="java.lang.StringIndexOutOfBoundsException"/>
-    <fullyQualifiedTypeName name="bai03.State"/>
-    <fullyQualifiedTypeName name="bai03.ConvertJsonWithStreamingAPI"/>
-    <fullyQualifiedTypeName name="bai02.Address"/>
-    <fullyQualifiedTypeName name="bai02.PhoneNumber"/>
-    <fullyQualifiedTypeName name="bai02.Person"/>
-    <fullyQualifiedTypeName name="int"/>
     <fullyQualifiedTypeName name="java.util.concurrent.ForkJoinPool"/>
     <fullyQualifiedTypeName name="java.util.concurrent.RecursiveTask"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
@@ -45,7 +29,6 @@
     <fullyQualifiedTypeName name="jakarta.json.JsonObjectBuilder"/>
     <fullyQualifiedTypeName name="test03.Address"/>
     <fullyQualifiedTypeName name="test03.ConvertJson"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="jakarta.json.JsonReader"/>
     <fullyQualifiedTypeName name="jakarta.json.Json"/>
     <fullyQualifiedTypeName name="java.io.FileReader"/>
@@ -60,4 +43,21 @@
     <fullyQualifiedTypeName name="java.time.LocalDate"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="jakarta.json.JsonObject"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.Order"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.TestMethodOrder"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.MethodOrderer.OrderAnnotation"/>
+    <fullyQualifiedTypeName name="org.neo4j.driver.Driver"/>
+    <fullyQualifiedTypeName name="org.neo4j.driver.SessionConfig"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.BeforeAll"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.TestInstance"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.AfterAll"/>
+    <fullyQualifiedTypeName name="util.AppUtild"/>
+    <fullyQualifiedTypeName name="entity.Course"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.Test"/>
+    <fullyQualifiedTypeName name="org.neo4j.driver.Record"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="org.neo4j.driver.Session"/>
+    <fullyQualifiedTypeName name="org.neo4j.driver.Result"/>
 </qualifiedTypeNameHistroy>
