@@ -1,0 +1,72 @@
+[
+	{
+		"id": "PRJ01",
+		"location": "Stafford",
+		"budget": 10000.0,
+		"project_name": "Computerization",
+		"start_date": {
+			"year": 2019,
+			"month": 1,
+			"day": 1
+		},
+		"department": {
+			"id": "DEP01",
+			"name": "IT",
+			"contacts": [
+				{
+					"name": "John Smith",
+					"phone": "123-456-7890"
+				},
+				{
+					"name": "Jane Doe",
+					"phone": "123-456-7890"
+				}
+			]
+		},
+		"assignments": [
+			{
+				"hours": 20,
+				"employee_id": "EMP02"
+			},
+			{
+				"hours": 20,
+				"employee_id": "EMP03"
+			}
+		]
+	},
+	{
+		"id": "PRJ02",
+		"location": "LeHoangKhang",
+		"budget": 10000.0,
+		"project_name": "Computerization",
+		"start_date": {
+			"year": 2019,
+			"month": 1,
+			"day": 1
+		},
+		"department": {
+			"id": "DEP01",
+			"name": "IT",
+			"contacts": [
+				{
+					"name": "John Smith",
+					"phone": "123-456-7890"
+				},
+				{
+					"name": "Jane Doe",
+					"phone": "123-456-7890"
+				}
+			]
+		},
+		"assignments": [
+			{
+				"hours": 20,
+				"employee_id": "EMP02"
+			},
+			{
+				"hours": 20,
+				"employee_id": "EMP03"
+			}
+		]
+	}
+]

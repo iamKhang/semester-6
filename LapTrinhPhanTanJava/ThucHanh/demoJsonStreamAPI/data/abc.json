@@ -1,0 +1,16 @@
+[
+	{
+		"firstName": "Ti",
+		"age": 20,
+		"address": {
+			"city": "P4"
+		}
+	},
+	{
+		"firstName": "Le",
+		"age": 23,
+		"address": {
+			"city": "P4"
+		}
+	}
+]

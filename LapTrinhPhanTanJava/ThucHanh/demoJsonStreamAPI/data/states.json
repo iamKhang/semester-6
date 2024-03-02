@@ -1,0 +1,37 @@
+[
+  {
+    "StateName": "Alabama",
+    "Abbreviation": "AL",
+    "Capital": "Montgomery",
+    "Statehood": 1819,
+    "ID": 1
+  },
+  {
+    "StateName": "Alaska",
+    "Abbreviation": "AK",
+    "Capital": "Juneau",
+    "Statehood": 1959,
+    "ID": 2
+  },
+  {
+    "StateName": "American Samoa",
+    "Abbreviation": "AS",
+    "Capital": "Pago Pago",
+    "Statehood": 1899,
+    "ID": 3
+  },
+  {
+    "StateName": "Arizona",
+    "Abbreviation": "AZ",
+    "Capital": "Phoenix",
+    "Statehood": 1912,
+    "ID": 4
+  },
+  {
+    "StateName": "Arkansas",
+    "Abbreviation": "AR",
+    "Capital": "Little Rock",
+    "Statehood": 1836,
+    "ID": 5
+  }
+]
