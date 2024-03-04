@@ -2,6 +2,8 @@ package dao;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+import java.util.List;
+
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
@@ -41,6 +43,24 @@ class CourseDaoTest {
 		int actual = count;
 		assertEquals(expected, actual);
 	}
+	
+	@Test
+	void testGetAllCourses() {
+		List<Course> courses = courseDao.getAllCourses();
+		int count = courses.size();
+	}
+	
+	@Test
+	void testGetAllCoursesByDepId() {
+		List<Course> courses = courseDao.getAllCoursesByDepId("IE");
+		int count = courses.size();
+		int expected = 3;
+		int actual = count;
+		assertEquals(expected, actual);
+	}
+	
+	
+	
 
 	@AfterAll
 	static void tearDown() throws Exception {

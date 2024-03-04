@@ -70,7 +70,6 @@ class StudentDaoTest {
 	void testListOfStudents() {
 		List<Student> students = studentDao.listOfStudents(10);
 		assertEquals(7, students.size());
-//		System.out.println(students.size());
 		students.forEach(st -> System.out.println(st));
 	}
 	

@@ -169,6 +169,20 @@ public class StudentDao {
 		}
 	}
 	
+	/**
+	 * Phương thức lấy ra toàn bộ sinh viên đang học các khóa học trong một khoa
+	 * @param deptID
+	 * @return
+	 */
+	public List<Student> getAllStudentInDepartment(String deptID){
+		String query = "MATCH (s:Student)-[:ENROLLED]->(c:Course)-[:BELONGS_TO]->(d:Department)"
+				+ "WHERE d.deptID =  $depID"
+				+ "RETURN s";
+		
+		
+		Map<String, Object> pars = Map.copyOf("depID", f)
+	}
+	
 	
 	/**
 	 * Close the driver

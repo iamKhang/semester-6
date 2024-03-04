@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.util.concurrent.ForkJoinPool"/>
-    <fullyQualifiedTypeName name="java.util.concurrent.RecursiveTask"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.util.stream.Collector"/>
-    <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
     <fullyQualifiedTypeName name="bai03.Employee"/>
     <fullyQualifiedTypeName name="java.util.concurrent.CopyOnWriteArraySet"/>
     <fullyQualifiedTypeName name="java.io.IOException"/>
@@ -41,7 +38,6 @@
     <fullyQualifiedTypeName name="test04.ConvertJson"/>
     <fullyQualifiedTypeName name="java.util.Locale"/>
     <fullyQualifiedTypeName name="java.time.LocalDate"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="jakarta.json.JsonObject"/>
     <fullyQualifiedTypeName name="org.junit.jupiter.api.Order"/>
     <fullyQualifiedTypeName name="org.junit.jupiter.api.TestMethodOrder"/>
@@ -51,13 +47,17 @@
     <fullyQualifiedTypeName name="org.junit.jupiter.api.BeforeAll"/>
     <fullyQualifiedTypeName name="org.junit.jupiter.api.TestInstance"/>
     <fullyQualifiedTypeName name="org.junit.jupiter.api.AfterAll"/>
-    <fullyQualifiedTypeName name="util.AppUtild"/>
-    <fullyQualifiedTypeName name="entity.Course"/>
-    <fullyQualifiedTypeName name="org.junit.jupiter.api.Test"/>
     <fullyQualifiedTypeName name="org.neo4j.driver.Record"/>
     <fullyQualifiedTypeName name="java.util.Map"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
-    <fullyQualifiedTypeName name="java.lang.Object"/>
-    <fullyQualifiedTypeName name="org.neo4j.driver.Session"/>
     <fullyQualifiedTypeName name="org.neo4j.driver.Result"/>
+    <fullyQualifiedTypeName name="org.neo4j.driver.Session"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.lang.Class"/>
+    <fullyQualifiedTypeName name="org.neo4j.driver.types.Node"/>
+    <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+    <fullyQualifiedTypeName name="util.AppUtild"/>
+    <fullyQualifiedTypeName name="entity.Course"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.Test"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
 </qualifiedTypeNameHistroy>
