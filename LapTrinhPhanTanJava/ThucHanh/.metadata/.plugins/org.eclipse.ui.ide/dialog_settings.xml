@@ -29,6 +29,10 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="F:\HocKi6\LapTrinhPhanTan\ThucHanh\demoJPA_ORM_Student"/>
+			<item value="E:\HocKi6\LapTrinhPhanTanJava\Demo\JPA_ORM_Student"/>
+			<item value="C:\Users\iamho\Downloads\Neo4jNorthwind"/>
+			<item value="F:\21083791_LeHoangKhang_Neo4J_Buoi05"/>
 			<item value="F:\HocKy6\LapTrinhPhanTan\Neo4jJavaDriverDemo"/>
 			<item value="F:\HocKy6\LapTrinhPhanTan\dhktpm17c"/>
 			<item value="F:\21083791_LeHoangKhang_30"/>

@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="E:\HocKi6\LapTrinhPhanTanJava\ThucHanh\demoJPA_ORM_Student"/>
 			<item value="E:\HocKi6\LapTrinhPhanTanJava\ThucHanh"/>
 			<item value="E:\HocKi6\LapTrinhPhanTanJava\Demo\json-demo"/>
 			<item value="E:\HocKi6\LapTrinhPhanTanJava\ThucHanh\ThucHanh"/>
@@ -48,11 +49,18 @@
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
 			<item value="LeHoangKhang_21083791_LTPTJ"/>
+			<item value="demo"/>
+			<item value="LeHoangKhang_21083791"/>
+			<item value="LeHoangKhang"/>
 			<item value="LapTrinhPhanTan"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="onTapGiuaKi_Neo4J"/>
+			<item value="onTap"/>
+			<item value="demo"/>
+			<item value="demoJPA_OGM"/>
 			<item value="practiceTest1st"/>
 			<item value="buoi03"/>
 			<item value="Buoi01"/>

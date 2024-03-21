@@ -180,7 +180,21 @@ public class StudentDao {
 				+ "RETURN s";
 		
 		
-		Map<String, Object> pars = Map.copyOf("depID", f)
+		Map<String, Object> pars = Map.of("depID", deptID);
+		try(Session session = driver.session(sessionConfig)){
+			session.executeRead(
+					tx -> {
+						Result result = tx.run(query, pars);
+						if (!result.hasNext())
+							return null;
+						return result.stream().map(record -> {
+							Node node = record.get("s").asNode();
+							return AppUtild.convert(node, Student.class);
+						}).toList();
+					});
+		}
+		return null;
+		
 	}
 	
 	
