@@ -2,8 +2,10 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
-			<item value="E:\HocKi6\LapTrinhPhanTanJava\ThucHanh\demoJPA_ORM_Student"/>
+			<item value="E:\HocKi6\LapTrinhPhanTanJava\ThucHanh\jpa_hibernate"/>
 			<item value="E:\HocKi6\LapTrinhPhanTanJava\ThucHanh"/>
+			<item value="E:\HocKi6\LapTrinhPhanTanJava\ThucHanh\buoi05"/>
+			<item value="E:\HocKi6\LapTrinhPhanTanJava\ThucHanh\demoJPA_ORM_Student"/>
 			<item value="E:\HocKi6\LapTrinhPhanTanJava\Demo\json-demo"/>
 			<item value="E:\HocKi6\LapTrinhPhanTanJava\ThucHanh\ThucHanh"/>
 		</list>
@@ -48,6 +50,8 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="21083791_LeHoangKhang_LTPTJ"/>
+			<item value="LeHoangKhang_211083791_LTPTJ"/>
 			<item value="LeHoangKhang_21083791_LTPTJ"/>
 			<item value="demo"/>
 			<item value="LeHoangKhang_21083791"/>
@@ -57,6 +61,8 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="LeHoangKhang_21083791_Hibernate"/>
+			<item value="buoi07_Bt4C5"/>
 			<item value="onTapGiuaKi_Neo4J"/>
 			<item value="onTap"/>
 			<item value="demo"/>

@@ -29,6 +29,9 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="E:\jpa_hibernate"/>
+			<item value="E:\omega-book-3"/>
+			<item value="D:\UserGroupJPA"/>
 			<item value="F:\HocKi6\LapTrinhPhanTan\ThucHanh\demoJPA_ORM_Student"/>
 			<item value="E:\HocKi6\LapTrinhPhanTanJava\Demo\JPA_ORM_Student"/>
 			<item value="C:\Users\iamho\Downloads\Neo4jNorthwind"/>
