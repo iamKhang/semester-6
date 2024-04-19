@@ -2,6 +2,10 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="E:\HocKi6\LapTrinhPhanTanJava\ThucHanh\onTapThuongKi02_JPA_BT05C5_Client"/>
+			<item value="E:\HocKi6\LapTrinhPhanTanJava\ThucHanh\onTapThuongKi02_JPA_BT05C5"/>
+			<item value="E:\HocKi6\LapTrinhPhanTanJava\ThucHanh\onTapThuongKi02_JPA_BT03C5"/>
+			<item value="E:\HocKi6\LapTrinhPhanTanJava\ThucHanh\onTapThuongKi02_JPA_BT02C5"/>
 			<item value="E:\HocKi6\LapTrinhPhanTanJava\ThucHanh\jpa_hibernate"/>
 			<item value="E:\HocKi6\LapTrinhPhanTanJava\ThucHanh"/>
 			<item value="E:\HocKi6\LapTrinhPhanTanJava\ThucHanh\buoi05"/>
@@ -50,9 +54,10 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="LeHoangKhang_LTPTJ"/>
+			<item value="LeHoangKhang_21083791_LTPTJ"/>
 			<item value="21083791_LeHoangKhang_LTPTJ"/>
 			<item value="LeHoangKhang_211083791_LTPTJ"/>
-			<item value="LeHoangKhang_21083791_LTPTJ"/>
 			<item value="demo"/>
 			<item value="LeHoangKhang_21083791"/>
 			<item value="LeHoangKhang"/>
@@ -61,6 +66,11 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="onTapThuongKi02"/>
+			<item value="onTapThuongKi02_JPA_BT05C5_Client"/>
+			<item value="onTapThuongKi02_JPA_BT05C5"/>
+			<item value="onTapThuongKi02_JPA_BT03C5"/>
+			<item value="onTapThuongKi02_JPA_BT02C5"/>
 			<item value="LeHoangKhang_21083791_Hibernate"/>
 			<item value="buoi07_Bt4C5"/>
 			<item value="onTapGiuaKi_Neo4J"/>
@@ -71,7 +81,6 @@
 			<item value="buoi03"/>
 			<item value="Buoi01"/>
 			<item value="Buoi"/>
-			<item value="Buoi02"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
