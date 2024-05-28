@@ -10,7 +10,6 @@ import org.junit.jupiter.api.Test;
 
 import dao.PersonDao;
 import entity.Instructor;
-import entity.OfficeAssignment;
 import entity.Person;
 
 class PersonDaoTest {
